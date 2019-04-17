@@ -16,6 +16,7 @@ public:
 private:
 	int line, row;    
 	int **mat;
+
 };
 
 #endif
